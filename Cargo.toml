@@ -2,6 +2,7 @@
 name = "edna"
 version = "0.1.0"
 edition = "2024"
+description = "A simple project manager built with Rust"
 
 [dependencies]
 clap = { version = "4.5.37", features = ["cargo"] }
